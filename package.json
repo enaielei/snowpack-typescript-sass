@@ -1,4 +1,8 @@
 {
+  "name": "snowpack-typescript-sass",
+  "version": "1.0.0",
+  "author": "Nommel Isanar Lavapie Amolat <nommel.isanar.lavapie.amolat@gmail.com>",
+  "license": "UNLICENSED",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
